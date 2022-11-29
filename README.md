@@ -7,10 +7,14 @@ the 1990 Census, 1990 Law Enforcement Management and Admin Stats survey, and cri
 1995 FBI UCR.
 
 The following is a list of the initial predictors selected for the linear regression model:
+
 • PolicBudgPerPop: police operating budget per population
+
 • RacialMatchCommPol: a measure of the racial match between the community and the police force.
 High values indicate proportions in community and police force are similar
+
 • medIncome: median household income
+
 • PctFam2Par: percentage of families (with kids) that are headed by two parents
 
 Initial predictor selection was based on current discussions in the US in regards to crime and its relationship
